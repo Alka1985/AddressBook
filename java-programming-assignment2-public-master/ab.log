@@ -1,0 +1,151 @@
+Deleting ~ files (emacs backup files)
+Deleting class files
+=====Testing constructor=====
+Testing new Contact("Name Nameson", "email@email.com", "123")
+* Constructor test for contact: Name Nameson email@email.com 123 passed.
+=====Testing constructor=====
+Testing new Contact("Bob Bobson", "bob@email.com", "1234")
+* Constructor test for contact: Bob Bobson bob@email.com 1234 passed.
+=====Testing constructor=====
+Testing new Contact("Charlie Ceeson", "charlie@email.com", "12345")
+* Constructor test for contact: Charlie Ceeson charlie@email.com 12345 passed.
+=====Testing constructor with null checks=====
+* Constructor null tests passed.
+=====Testing compareTo=====
+* Test of compareTo() in Contact passed!
+=====Testing equals=====
+Other is not instance of Contact or Other is null
+Other is not instance of Contact or Other is null
+* equals() test for Contact passed.
+Test: adding Arnold Llloyd a@test.com 12345
+You must implement addEntry(Contact c)
+In class org.addressbook.storage.SimpleAddressBook
+* Adding Arnold Llloyd a@test.com 12345
+* Number of entries was increased by one
+* list.contains(c) returns true
+* Test with Arnold Llloyd a@test.com 12345 passed.
+Test: adding Bernard Blake b@test.com 234354
+You must implement addEntry(Contact c)
+In class org.addressbook.storage.SimpleAddressBook
+* Adding Bernard Blake b@test.com 234354
+* Number of entries was increased by one
+* list.contains(c) returns true
+* Test with Bernard Blake b@test.com 234354 passed.
+Test: adding Cecil B. Demented c@test.com 234234
+You must implement addEntry(Contact c)
+In class org.addressbook.storage.SimpleAddressBook
+* Adding Cecil B. Demented c@test.com 234234
+* Number of entries was increased by one
+* list.contains(c) returns true
+* Test with Cecil B. Demented c@test.com 234234 passed.
+ * Compiling: OK
+ * Testing exit: OK
+ * Test adding 2 contacts one by one (add, list and quit): 
+   * [1/2] Delsie Allen (delsie@allen.com / 2264612477):  1 items loaded from file.
+
+====Address book====
+
+0 List
+1 Add
+2 quit
+Pleas enter a number from the menu: 
+You selected Add
+
+enter name: enter email: enter phone: You must implement addEntry(Contact c)
+In class org.addressbook.storage.SimpleAddressBook
+Saving in C:\Users\Student Java\.address_book...
+
+====Address book====
+
+0 List
+1 Add
+2 quit
+Pleas enter a number from the menu: 
+Bye!
+
+ OK
+   * stored:   OK
+   * [2/2] Annabeth Evans (annabeth@evans.com / 279151672):  2 items loaded from file.
+
+====Address book====
+
+0 List
+1 Add
+2 quit
+Pleas enter a number from the menu: 
+You selected Add
+
+enter name: enter email: enter phone: You must implement addEntry(Contact c)
+In class org.addressbook.storage.SimpleAddressBook
+Saving in C:\Users\Student Java\.address_book...
+
+====Address book====
+
+0 List
+1 Add
+2 quit
+Pleas enter a number from the menu: 
+Bye!
+
+ OK
+   * stored:   OK
+ * Test adding multiple contacts (4 contacts): 3 items loaded from file.
+
+====Address book====
+
+0 List
+1 Add
+2 quit
+Pleas enter a number from the menu: 
+You selected Add
+
+enter name: enter email: enter phone: You must implement addEntry(Contact c)
+In class org.addressbook.storage.SimpleAddressBook
+Saving in C:\Users\Student Java\.address_book...
+
+====Address book====
+
+0 List
+1 Add
+2 quit
+Pleas enter a number from the menu: 
+You selected Add
+
+enter name: enter email: enter phone: You must implement addEntry(Contact c)
+In class org.addressbook.storage.SimpleAddressBook
+Saving in C:\Users\Student Java\.address_book...
+
+====Address book====
+
+0 List
+1 Add
+2 quit
+Pleas enter a number from the menu: 
+You selected Add
+
+enter name: enter email: enter phone: You must implement addEntry(Contact c)
+In class org.addressbook.storage.SimpleAddressBook
+Saving in C:\Users\Student Java\.address_book...
+
+====Address book====
+
+0 List
+1 Add
+2 quit
+Pleas enter a number from the menu: 
+You selected Add
+
+enter name: enter email: enter phone: You must implement addEntry(Contact c)
+In class org.addressbook.storage.SimpleAddressBook
+Saving in C:\Users\Student Java\.address_book...
+
+====Address book====
+
+0 List
+1 Add
+2 quit
+Pleas enter a number from the menu: 
+Bye!
+
+ OK
+
